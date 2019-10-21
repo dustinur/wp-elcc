@@ -46,3 +46,11 @@
 [08-Oct-2019 20:24:46 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\class-wp-hook.php:310
 [08-Oct-2019 20:24:46 UTC] PHP  17. elcc_setup() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\class-wp-hook.php:286
 [08-Oct-2019 20:28:23 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_script' (T_STRING) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 9
+[11-Oct-2019 16:12:22 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:12:27 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:12:31 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:20:27 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:20:50 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:20:58 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:21:16 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[11-Oct-2019 16:21:38 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
