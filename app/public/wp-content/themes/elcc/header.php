@@ -18,21 +18,24 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#"
+            <a class="nav-link" href="<?php echo site_url(''); ?>"
               >Home <span class="sr-only">(current)</span></a
             >
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Features</a>
+            <a class="nav-link" href="<?php echo site_url('/blog'); ?>">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="<?php echo site_url('products'); ?>">Products</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="<?php echo site_url('about'); ?>">About</a>
           </li>
         </ul>
       </div>
     </nav>
     <header>
-        <div class="bg-header jumbotron jumbotron-fluid">
+        <div class="bg-header jumbotron jumbotron-fluid" style="background: #676f7a url(<?php echo get_template_directory_uri(); ?>/img/bg-1.jpg) 45%/cover no-repeat;">
         <div class="container">
             <h1 class="display-4">Fluid jumbotron</h1>
             <p class="lead">

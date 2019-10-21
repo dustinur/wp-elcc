@@ -23,17 +23,17 @@ add_action( 'wp_enqueue_scripts', 'elcc_setup' );
 
     add_action('after_setup_theme', 'elcc_init');
 
-    // Project Post Type
+    // Product Post Type
 
     function elcc_custom_post_type() {
-        register_post_type('project',
+        register_post_type('product',
             array(
-                'rewrite' => array('slug' => 'projects'),
+                'rewrite' => array('slug' => 'products'),
                 'labels' => array(
-                    'name' => 'Projects',
-                    'singular_name' => 'Project',
-                    'add_new_item' => 'Add New Project',
-                    'edit_item' => 'Edit Project'
+                    'name' => 'Products',
+                    'singular_name' => 'Product',
+                    'add_new_item' => 'Add New Product',
+                    'edit_item' => 'Edit Product'
                 ),
                 'menu-icon' => 'dashicons-clipboard',
                 'public' => true,
