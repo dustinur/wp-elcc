@@ -54,3 +54,93 @@
 [11-Oct-2019 16:20:58 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
 [11-Oct-2019 16:21:16 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
 [11-Oct-2019 16:21:38 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\functions.php on line 22
+[21-Oct-2019 20:58:51 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 20:58:51 UTC] PHP Stack trace:
+[21-Oct-2019 20:58:51 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 20:58:51 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 20:58:51 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 20:58:51 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 20:58:51 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 20:58:51 UTC] PHP Stack trace:
+[21-Oct-2019 20:58:51 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 20:58:51 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 20:58:51 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 20:58:51 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 20:58:51 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 20:58:51 UTC] PHP Stack trace:
+[21-Oct-2019 20:58:51 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 20:58:51 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 20:58:51 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 20:58:51 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 20:59:07 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 20:59:07 UTC] PHP Stack trace:
+[21-Oct-2019 20:59:07 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 20:59:07 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 20:59:07 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 20:59:07 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 20:59:07 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 20:59:07 UTC] PHP Stack trace:
+[21-Oct-2019 20:59:07 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 20:59:07 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 20:59:07 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 20:59:07 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 20:59:07 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 20:59:07 UTC] PHP Stack trace:
+[21-Oct-2019 20:59:07 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 20:59:07 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 20:59:07 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 20:59:07 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:00:26 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:00:26 UTC] PHP Stack trace:
+[21-Oct-2019 21:00:26 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:00:26 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:00:26 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:00:26 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:00:26 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:00:26 UTC] PHP Stack trace:
+[21-Oct-2019 21:00:26 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:00:26 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:00:26 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:00:26 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:00:26 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:00:26 UTC] PHP Stack trace:
+[21-Oct-2019 21:00:26 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:00:26 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:00:26 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:00:26 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:02:07 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:02:07 UTC] PHP Stack trace:
+[21-Oct-2019 21:02:07 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:02:07 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:02:07 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:02:07 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:02:07 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:02:07 UTC] PHP Stack trace:
+[21-Oct-2019 21:02:07 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:02:07 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:02:07 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:02:07 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:02:07 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:02:07 UTC] PHP Stack trace:
+[21-Oct-2019 21:02:07 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:02:07 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:02:07 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:02:07 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:02:32 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:02:32 UTC] PHP Stack trace:
+[21-Oct-2019 21:02:32 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:02:32 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:02:32 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:02:32 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:02:32 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:02:32 UTC] PHP Stack trace:
+[21-Oct-2019 21:02:32 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:02:32 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:02:32 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:02:32 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
+[21-Oct-2019 21:02:32 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\10703393\Local Sites\elcc\app\public\wp-content\themes\elcc\front-page.php on line 21
+[21-Oct-2019 21:02:32 UTC] PHP Stack trace:
+[21-Oct-2019 21:02:32 UTC] PHP   1. {main}() C:\Users\10703393\Local Sites\elcc\app\public\index.php:0
+[21-Oct-2019 21:02:32 UTC] PHP   2. require() C:\Users\10703393\Local Sites\elcc\app\public\index.php:17
+[21-Oct-2019 21:02:32 UTC] PHP   3. require_once() C:\Users\10703393\Local Sites\elcc\app\public\wp-blog-header.php:19
+[21-Oct-2019 21:02:32 UTC] PHP   4. include() C:\Users\10703393\Local Sites\elcc\app\public\wp-includes\template-loader.php:78
