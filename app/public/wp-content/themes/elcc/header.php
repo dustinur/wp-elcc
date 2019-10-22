@@ -11,37 +11,32 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Navbar</a>
+      <a class="navbar-brand" href="#">ELCC</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
-          <li class="nav-item active">
+          <li class="nav-item">
             <a class="nav-link" href="<?php echo site_url(''); ?>"
-              >Home <span class="sr-only">(current)</span></a
-            >
+              <?php if(is_front_page()) echo 'class="nav-active"' ?>
+            >Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo site_url('/blog'); ?>">Blog</a>
+            <a class="nav-link" href="<?php echo site_url('/blog'); ?>"
+              <?php if(get_post_type() == 'post') echo 'class="nav-active"' ?>
+            >Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo site_url('products'); ?>">Products</a>
+            <a class="nav-link" href="<?php echo site_url('/products'); ?>"
+              <?php if(get_post_type() == 'product') echo 'class="nav-active"' ?>
+            >Products</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo site_url('about'); ?>">About</a>
+            <a class="nav-link" href="<?php echo site_url('/about'); ?>"
+            <?php if(is_page('about')) echo 'class="nav-active"' ?>
+            >About</a>
           </li>
         </ul>
       </div>
     </nav>
-    <header>
-        <div class="bg-header jumbotron jumbotron-fluid" style="background: #676f7a url(<?php echo get_template_directory_uri(); ?>/img/bg-1.jpg) 45%/cover no-repeat;">
-        <div class="container">
-            <h1 class="display-4">Fluid jumbotron</h1>
-            <p class="lead">
-            This is a modified jumbotron that occupies the entire horizontal space
-            of its parent.
-            </p>
-        </div>
-        </div>
-    </header>
